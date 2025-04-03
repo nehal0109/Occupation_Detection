@@ -1,0 +1,15 @@
+labelImg
+PyQt5
+lxml
+numpy~=2.0.2
+tensorflow
+opencv-python~=4.10.0.84
+torch~=2.5.1
+opencv-python
+Pillow
+matplotlib
+ultralytics~=8.3.61
+albumentations
+gradio~=5.13.0
+scikit-learn~=1.6.1
+albumentations~=2.0.5
